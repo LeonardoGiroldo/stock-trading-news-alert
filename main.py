@@ -20,7 +20,7 @@ news_apikey = "9510b6784bc0453ba142ea6df7c9a295"
 
 news_parameters = {
     "q" : COMPANY_NAME,
-    "from" : "2022-08-24",
+    "from" : today_date,
     "sortBy" : "popularity",
     "apiKey" : news_apikey
 }
